@@ -1,5 +1,6 @@
 # determination-of-distance-between-two-3d-lines-with-an-interval
 
+Software needed: AutoCAD
 
 This is a script created with Dynamo for Civil 3D.
 
